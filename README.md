@@ -1,17 +1,30 @@
-# mobile_app
+## 📢 Sistem Pengaduan Masyarakat
 
-Power Ranger Magang
+Sistem Pengaduan Masyarakat adalah platform berbasis digital yang dirancang untuk memudahkan masyarakat dalam menyampaikan laporan atau keluhan kepada kantor dinas terkait, serta memantau perkembangan status penanganan laporan secara *real-time*.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Permasalahan & Solusi
 
-A few resources to get you started if this is your first Flutter project:
+* **Permasalahan:** Masyarakat kerap mengalami kesulitan dalam menyampaikan aspirasi/pengaduan secara langsung dan kurang transparan dalam memantau sejauh mana laporan mereka diproses.
+* **Solusi:** Menyediakan sistem berbasis web/mobile yang transparan dengan fitur pelacakan status laporan (Diajukan, Diproses, Selesai), unggah foto bukti, dan pencatatan lokasi kejadian.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Fitur Utama
+
+- **Masyarakat:**
+  - Registrasi & Login akun.
+  - Membuat pengaduan baru (Form Deskripsi, Unggah Foto, dan Lokasi).
+  - Memantau status pengaduan (*Diajukan*, *Diproses*, *Selesai*).
+  - Melihat riwayat pengaduan yang pernah dikirim.
+  - Notifikasi pembaruan status laporan.
+
+- **Admin Dinas:**
+  - Dashboard manajemen pengaduan.
+  - Verifikasi dan validasi laporan masuk.
+  - Pembaruan status penanganan laporan beserta catatan penanganan.
+
+---
+
+## 🔄 Alur Sistem
